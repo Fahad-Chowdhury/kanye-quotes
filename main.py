@@ -51,7 +51,7 @@ class KanyeQuotes():
 
 
 def main():
-    """ Main method to execute Pomodoro app. """
+    """ Main method to execute Kanye-quotes app. """
     kanye = KanyeQuotes()
     kanye.window.mainloop()
 
