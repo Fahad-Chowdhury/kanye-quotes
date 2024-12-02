@@ -16,7 +16,6 @@ It is a fun application that fetches a new quote by Kanye West every time the bu
 - requests
 - os
 
-
 ## Contact Information:
 Fahad Chowdhury\
 [LinkedIn](https://www.linkedin.com/in/fahad-chowdhury-fi)\
