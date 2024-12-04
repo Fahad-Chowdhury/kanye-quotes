@@ -6,6 +6,7 @@
 It is a fun application that fetches a new quote by Kanye West every time the button is clicked. Quotes are fetched from `https://kanye.rest/`, a REST API for random Kanye West quotes.
 
 
+
 ![Image Link](https://github.com/Fahad-Chowdhury/kanye-quotes/blob/main/app.JPG)
 
 
